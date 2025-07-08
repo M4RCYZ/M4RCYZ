@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhlajNucDU5ZHh3bXBpN2gybmthNnJla292MnZ2cjM0dGk5bzg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g39FOmrs6c9hxAJ69F/giphy.gif" alt="Tech Banner">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FlYzk5NjZzbWkzbWNxa3Z4OTZpYWJ2NnRnY3plYXF3bGg4aGlrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zSErenkP6X0Xpa24MF/giphy.gif" alt="Tech Banner">
 </p>
 
 <h1 align="center">Olá, eu sou o Marcus! 👋</h1>
@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FlYzk5NjZzbWkzbWNxa3Z4OTZpYWJ2NnRnY3plYXF3bGg4aGlrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zSErenkP6X0Xpa24MF/giphy.gif" alt="Coding Animation" width="200">
-</p>
-
-<p align="center">
   <a href="mailto:marcusdevofc@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -21,6 +17,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+---
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4RCYZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
