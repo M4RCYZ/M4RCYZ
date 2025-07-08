@@ -5,7 +5,6 @@
 <h1 align="center">Olá, eu sou o Marcus!</h1>
 <p align="center">
     Especialista em Suporte de TI com mais de um ano de experiência em monitoramento e redes (NOC/SOC). Atualmente, estou migrando minha carreira para o desenvolvimento back-end, com foco em Java, Spring Boot e APIs RESTful, enquanto curso Análise e Desenvolvimento de Sistemas.
----
   <br>
   🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS) | 📍 Goiânia/Brasil
 </p>
@@ -18,8 +17,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4RCYZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
